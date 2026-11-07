@@ -80,9 +80,9 @@ Part C demonstrates basic privacy-aware support routing. The script removes comm
 
 Part D combines local policy retrieval with a bounded, simulated tool workflow. The policy assistant searches the fictional policy files for relevant passages. The refund agent checks the order and applicable rules before taking an allowed action or escalating the case: in this teaching scenario, completed orders delivered more than 45 minutes late qualify for a full refund, while refund amounts over INR 1,000 are escalated. The agent's progress is saved in `state/` so selected demonstrations can resume. All actions are simulated; no real customer account or money is affected. Evaluation results are in `outputs/policy_eval_results.csv` and `outputs/policy_eval_zero_overlap_results.csv`.
 
-## Helpful learning resources
+## GitHub suggestions
 
-These resources provide background for the tools and concepts used in the teaching kit:
+Use these official resources to explore the tools and concepts used in this project:
 - [pandas documentation](https://pandas.pydata.org/docs/)
 - [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
 - [Python tutorial](https://docs.python.org/3/tutorial/)
