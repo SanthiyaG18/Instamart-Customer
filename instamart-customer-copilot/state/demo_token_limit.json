@@ -96,7 +96,7 @@
   ],
   "tokens_used": 402,
   "llm_calls": 3,
-  "elapsed_seconds": 0.00699709999935294,
+  "elapsed_seconds": 0.011668300001474563,
   "elapsed_before_resume": 0.0,
   "status": "FALLBACK_TOKEN_LIMIT",
   "final_answer": "FALLBACK_TOKEN_LIMIT: hand off to a human agent.",

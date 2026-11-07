@@ -48,7 +48,7 @@
   ],
   "tokens_used": 104,
   "llm_calls": 2,
-  "elapsed_seconds": 0.004326399999627029,
+  "elapsed_seconds": 0.007348500002990477,
   "elapsed_before_resume": 0.0,
   "status": "NOT_FOUND",
   "final_answer": "NOT_FOUND: no such order.",

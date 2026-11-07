@@ -158,7 +158,7 @@
   ],
   "tokens_used": 977,
   "llm_calls": 5,
-  "elapsed_seconds": 0.01219439999840688,
+  "elapsed_seconds": 0.00980629999685334,
   "elapsed_before_resume": 0.0,
   "status": "REFUND",
   "final_answer": "REFUND: INR 128.25 issued.",

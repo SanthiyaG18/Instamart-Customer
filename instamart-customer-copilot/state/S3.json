@@ -158,7 +158,7 @@
   ],
   "tokens_used": 964,
   "llm_calls": 5,
-  "elapsed_seconds": 0.009020999999847845,
+  "elapsed_seconds": 0.012391899996146094,
   "elapsed_before_resume": 0.0,
   "status": "ESCALATE",
   "final_answer": "ESCALATE: refund above INR 1000 sent to a human lead.",

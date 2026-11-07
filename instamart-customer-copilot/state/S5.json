@@ -96,7 +96,7 @@
   ],
   "tokens_used": 385,
   "llm_calls": 3,
-  "elapsed_seconds": 0.005922300000747782,
+  "elapsed_seconds": 0.012060699998983182,
   "elapsed_before_resume": 0.0,
   "status": "DENIED",
   "final_answer": "DENIED: only completed orders can be refunded.",

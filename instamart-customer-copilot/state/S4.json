@@ -127,7 +127,7 @@
   ],
   "tokens_used": 669,
   "llm_calls": 4,
-  "elapsed_seconds": 0.00710369999978866,
+  "elapsed_seconds": 0.01251080000656657,
   "elapsed_before_resume": 0.0,
   "status": "DENIED",
   "final_answer": "DENIED: delivery was within 45 minutes.",
