@@ -1,0 +1,25 @@
+{
+  "run_id": "demo_timeout",
+  "scenario_id": "demo_timeout",
+  "user_message": "My order ORD-100048 reached me very late. I would like a refund.",
+  "messages": [
+    {
+      "role": "system",
+      "content": "AGENT. Follow policy and use tools. Do not issue refunds for cancelled or on-time orders. Refunds above INR 1000 require human escalation."
+    },
+    {
+      "role": "user",
+      "content": "My order ORD-100048 reached me very late. I would like a refund."
+    }
+  ],
+  "steps": [],
+  "step_number": 0,
+  "tools_executed": [],
+  "tokens_used": 0,
+  "llm_calls": 0,
+  "elapsed_seconds": 3.9000005926936865e-06,
+  "elapsed_before_resume": 0.0,
+  "status": "FALLBACK_TIMEOUT",
+  "final_answer": "FALLBACK_TIMEOUT: hand off to a human agent.",
+  "crash_after_tool": null
+}
